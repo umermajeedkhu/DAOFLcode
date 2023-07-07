@@ -1,0 +1,29 @@
+{
+    "name": "FLNFT #1",
+    "description": "FLNFT is NFT for Federated Learning",
+    "Details": {
+        "Local Model Upload Guidelines": "https://ipfs.io/ipfs/QmbdqpmvSLux8LYpKb5LWerkQPdUKETL6dBvhSendDbokv/LMUG.md",
+        "Local Model Upload Reward Criteria": "https://ipfs.io/ipfs/QmbdqpmvSLux8LYpKb5LWerkQPdUKETL6dBvhSendDbokv/LMUC.md",
+        "FLTP guide": "https://ipfs.io/ipfs/QmbdqpmvSLux8LYpKb5LWerkQPdUKETL6dBvhSendDbokv/FLTPguide.md",
+        "ODOC guide": "https://ipfs.io/ipfs/QmbdqpmvSLux8LYpKb5LWerkQPdUKETL6dBvhSendDbokv/ODOACguide.md",
+        "VDOC guide": "https://ipfs.io/ipfs/QmbdqpmvSLux8LYpKb5LWerkQPdUKETL6dBvhSendDbokv/VDOCguide.md",
+        "ODAOMs guide for output verification": "https://ipfs.io/ipfs/QmbdqpmvSLux8LYpKb5LWerkQPdUKETL6dBvhSendDbokv/MultiSigCguideODAOMs.md",
+        "Error Codes": "https://ipfs.io/ipfs/QmbdqpmvSLux8LYpKb5LWerkQPdUKETL6dBvhSendDbokv/errorcodes.md"
+    },
+    "image": "https://ipfs.io/ipfs/QmXayssX7GVk1eAjtrNfzg4e5T5wuNaBy1drEhY8CPAZf2/0.jpg",
+    "etherscan": {
+        "DAOFLC_etherscan": "https://sepolia.etherscan.io/address/0x21314B8830c7FE06d0B0DAe0c7935794D77FD429",
+        "FLTokenC_etherscan": "https://sepolia.etherscan.io/address/0x13C3A1a153F7C50a018177aeaC5D70D98A3B2c2C",
+        "FLNFTC_etherscan": "https://sepolia.etherscan.io/address/0x37d18bd11e20774e9BE7c22647156564975CAe6b",
+        "MultiSigC_etherscan": "https://sepolia.etherscan.io/address/0x7001b7f257EEDF4b970577c63095909916BD0cc0",
+        "ODAOC_etherscan": "https://sepolia.etherscan.io/address/0xf002f304Cb1C34b40d59347472f2f68Fc882e61f",
+        "VDAOC_etherscan": "https://sepolia.etherscan.io/address/0x1d9Cebd90Aa66068cD9FD3d75479DbDeDA65ebeB",
+        "ODAOMTC_etherscan": "https://sepolia.etherscan.io/address/0xDfF3E610ce7DCb727150E1351c44e58154E28108",
+        "VDAOMTC_etherscan": "https://sepolia.etherscan.io/address/0x5303b5a16655C69D7914cf6fcdF5A5429C41279F"
+    },
+    "GMCID": "QmT6BBUnEsd84HFqGFNZWQtQdWkjL449pJjBtPHezLN4kj",
+    "GMCIDfull": "https://ipfs.io/ipfs/QmT6BBUnEsd84HFqGFNZWQtQdWkjL449pJjBtPHezLN4kj",
+    "GI": 0,
+    "Accuracy": 0.1618,
+    "GMfilename": "0x21314B8830c7FE06d0B0DAe0c7935794D77FD429_GM_0.pkl"
+}
